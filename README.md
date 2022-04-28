@@ -21,7 +21,7 @@ Contact with me via these platforms!/Benimle bu platformlar aracılığıyla ile
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=krmdevelopment&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   
-## ð  Technologies & Tools 
+## ●●● Technologies & Tools ●●●
 <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"></img>
