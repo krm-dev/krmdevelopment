@@ -16,7 +16,7 @@ Contact with me via these platforms!
  <a href="https://twitter.com/Krm_dev?t=kXcCmqBZg6LJ7IaDHZNjgg&s=09" target="_blank" rel="nofollow"><img alt="Krmdev#039;s Mail Address" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salihyanbal&layout=compact&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krmdevelopment&layout=compact&theme=dark)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=krmdevelopment&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   
