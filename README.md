@@ -2,7 +2,7 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/erenari?style=social)](https://github.com/erenari?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/krmdevelopment?style=social)](https://github.com/krmdevelipment?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/erenari?style=social)
 
 ### Hi there ð
