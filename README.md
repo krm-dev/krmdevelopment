@@ -13,7 +13,7 @@ Contact with me via these platforms!
  <a href="https://www.linkedin.com/in/krm-development-7038b1216/" target="_blank" rel="nofollow"><img alt="Krmdev#039;s Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:krmdevelopmnt@gmail.com" target="_blank" rel="nofollow"><img alt="Krmdev
  #039;s Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://twitter.com/Krm_dev?t=kXcCmqBZg6LJ7IaDHZNjgg&s=09" target="_blank" rel="nofollow"><img alt="Eren&#039;s Mail Address" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://twitter.com/Krm_dev?t=kXcCmqBZg6LJ7IaDHZNjgg&s=09" target="_blank" rel="nofollow"><img alt="Krmdev#039;s Mail Address" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salihyanbal&layout=compact&theme=dark)
