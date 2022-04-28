@@ -1,14 +1,14 @@
-### Hi there ð
+### Hi there 
 
 
 
 [![GitHub followers](https://img.shields.io/github/followers/krmdevelopment?style=social)](https://github.com/krmdevelopment?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/krmdevelopment?style=social)
 
-### Hi there ð
-I am Kerem!
+### Hi there/Merhabalar
+I am Kerem!/Ben Kerem!
 
-Contact with me via these platforms! 
+Contact with me via these platforms!/Benimle bu platformlar aracılıyla ulaşabilirsiniz.
 
  <a href="https://www.linkedin.com/in/krm-development-7038b1216/" target="_blank" rel="nofollow"><img alt="Krmdev#039;s Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:krmdevelopmnt@gmail.com" target="_blank" rel="nofollow"><img alt="Krmdev
