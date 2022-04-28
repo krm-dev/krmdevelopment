@@ -14,6 +14,7 @@ Contact with me via these platforms!/Benimle bu platformlar aracılıyla ulaşab
  <a href="mailto:krmdevelopmnt@gmail.com" target="_blank" rel="nofollow"><img alt="Krmdev
  #039;s Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://twitter.com/Krm_dev?t=kXcCmqBZg6LJ7IaDHZNjgg&s=09" target="_blank" rel="nofollow"><img alt="Krmdev#039;s Mail Address" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://twitter.com/Krm_dev?t=kXcCmqBZg6LJ7IaDHZNjgg&s=09" target="_blank" rel="nofollow"><img alt="Krmdev#039;s Mail Address" src="https://img.shields.io/badge/Discord-Kerem%230002-blue" /></a>
 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krmdevelopment&layout=compact&theme=dark)
